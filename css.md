@@ -172,4 +172,3 @@ body {
 CSSで指定したスタイルが反映され、画面が綺麗になりました。<br>
 ![](./images/sampleCSS.png){: style="width: 660px;height: auto;" }
 
-
