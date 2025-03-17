@@ -27,5 +27,5 @@ sort: 1
 2. フォームにclone用URLを貼り付けEnter<br>
     ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.017.png){: style="width: 660px;height: auto;" }
 3. フォルダの選択画面になるので、`C:¥web_app_dev` フォルダを選択<br>
-   ※認証を求められた場合は、ブラウザでアカウントを入れて認証してください。)
+   ※認証を求められた場合は、ブラウザでアカウントを入れて認証してください。
 4. `C:¥web_app_dev` 直下にコード`02_htmlcss...`がcloneできていればOK
