@@ -16,17 +16,14 @@ HTMLはこれらのコンテンツをどのように表示するかを指定す�
 
 ## HTMLを書いてみよう
 
-cloneした`02_htmlcss-...`は以下の構造をしています。
-※ちなみにcloneした  `02_htmlcss-...`の`...`には、Githubアカウントのユーザー名が入ります。
+cloneした`02_htmlcss-...`の中で、本章で使用するファイルは以下の3つです。
+※他のファイルもありますが無視してください。
 
-```text
-02_htmlcss-...
-├── helloWorld.html
-├── sample.css
-└── sample.html
-```
+- helloWorld.html
+- sample.css
+- sample.html
 
-`helloWorld.html`を開き、以下のコードを入力してください。<br>
+まずは、`helloWorld.html`を開き、以下のコードを入力してください。<br>
 
 **helloWorld.html**
 ```html
@@ -43,7 +40,7 @@ cloneした`02_htmlcss-...`は以下の構造をしています。
 ```
 
 入力後、ブラウザで`helloWorld.html`を開いてください。
-エクスプローラ上で、ファイルを右クリック→「プログラムから開く」をクリック→所定のブラウザクリックすると開けます。
+エクスプローラ上で、ファイルを右クリック→「プログラムから開く」をクリック→表示させたいブラウザをクリックすると開けます。
 
 以下のように表示されればOKです。
 ![](./images/Hello,World.jpeg){: style="width: 660px;height: auto;" }
@@ -53,7 +50,7 @@ cloneした`02_htmlcss-...`は以下の構造をしています。
 ここからは、より複雑なHTMLとサンプルを紹介します。
 以下はHTMLのサンプルコードです。
 cloneしたソースコードの中にこれらは記入済みです。
-VSCodeで`sample.html`を開いてください。
+VSCodeで`sample.html`を開くとコードが確認できます。
 
 **sample.html**
 ```html
