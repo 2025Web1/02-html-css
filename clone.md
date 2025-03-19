@@ -19,7 +19,7 @@ sort: 1
 3. リポジトリリンク(水色背景行)をクリックし、課題用に作成されたリポジトリにアクセス<br>
    ※この画面にならない場合は、ブラウザをリロードしてください。<br>
     ![](./images/repository_link.png){: style="width: 660px;height: auto;" }
-4. 緑のボタン(<>Code)をクリックし、HTTPSタブをクリック後、コピー用ボタンでclone用のURLをコピー
+4. 「①緑色のボタン(<>Code)」 → 「②HTTPSタブ」 → 「③コピー用ボタン」をクリックし、clone用URLをコピー
 
 ## VSCode(Visual Studio Code)でコードをclone
 
