@@ -16,7 +16,7 @@ CSSは、HTMLで定義された構造にスタイルを適用することで、W
 
 今回は、あらかじめ以下のような`sample.css`を用意しています。
 
-`sample.css`
+**sample.css**
 
 ```css
 body {
@@ -171,4 +171,3 @@ body {
 では、もう一度ブラウザで`sample.html`を開いてみてください。
 CSSで指定したスタイルが反映され、画面が綺麗になりました。<br>
 ![](./images/sampleCSS.png){: style="width: 660px;height: auto;" }
-
