@@ -20,6 +20,7 @@ cloneした`02_htmlcss-...`の中で、本章で使用するファイルは以�
 ※他のファイルもありますが無視してください。
 
 - helloWorld.html
+- pose_gutspose_couple.png
 - sample.css
 - sample.html
 
