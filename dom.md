@@ -29,9 +29,12 @@ HTMLは階層構造をタグの入れ子構造で表現します。
 ## 本授業のHTMLとCSSの取り扱いについて
 
 本授業は、PHPが主であり、コマ数が限られていることから、授業内でHTMLとCSSについて解説するのは今回のみです。
-HTMLとCSSについては、プロゲート
-HTMLについては、部分的に書くことがあります。
+HTMLについては、今後も部分的に書くことがあります。
 CSSについては基本的にこちらで用意します。
+
+さらに理解を深めたい方は、以下にソフトⅠで学習した「HTML＆CSS」のリンクを貼っておきますので、そちらを参照してください。
+
+[HTML＆CSS](https://classroom.google.com/c/NzUyNzU5OTQyNjQ5/m/NzYwMDEzODM2Njg5/details)
 
 ## まとめ
 
